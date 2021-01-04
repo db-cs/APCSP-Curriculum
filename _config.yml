@@ -1,0 +1,22 @@
+title: "AP CSP Curriculum"
+author: Nathan Bailey
+description: C1 is the second course in the Coding program of study. In this course, we will dive deeply into programming constructs and professional practices.
+url: https://c1.tribebytes.com
+
+remote_theme: dnbailey/coursepack@main
+
+collections:
+  units:
+    output: true
+    permalink: /:path/
+    layout: unit
+
+defaults:
+  - scope:
+      type: "units"
+    values:
+      layout: "unit"
+
+exclude:
+  - LICENSE
+  - README.md
