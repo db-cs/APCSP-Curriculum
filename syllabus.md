@@ -8,13 +8,11 @@ banner: /assets/banner.png
 
 AP Computer Science Principles is an introductory college-level computing course. You will cultivate your understanding of computer science through working with data, collaborating to solve problems, and developing computer programs as you explore concepts like creativity, abstraction, data and information, algorithms, programming, the internet, and the global impact of computing.
 
-**Instructor:** Mr. Nathan Bailey
+**Instructor:** Nathan Bailey, M.Ed.
 
 **Office Hours:** Monday - Friday from 7:45-8:15 and 2:45-3:15
 
-**About Your Instructor:** I'm a big nerd. Here's my evidence.
-
-**Contact Your Instructor:** dbailey@k12k.com or 423-378-8591
+**Contact Your Instructor:** [dbailey@k12k.com](mailto:dbailey@k12k.com) or 423-378-8400 ext. 8591
 
 ## Code.org's Curriculum
 
@@ -47,12 +45,12 @@ The CS Principles Conceptual Framework developed by the College Board outlines f
 
 | Big Ideas Computational              | Thinking Practices                        |
 | ------------------------------------ | ----------------------------------------- |
-| Creative Development (CRD)           | Computational Solution Design (CTP1)      |
-| Data (DAT)                           | Algorithms and Program Development (CPT2) |
-| Algorithms and Programming (AAP)     | Abstraction in Program Development (CPT3) |
-| Computing Systems and Networks (CSN) | Code Analysis (CPT4)                      |
-| Impact of Computing (IOC)            | Computing Innovations (CPT5)              |
-|                                      | Responsible Computing (CPT6)              |
+| Creative Development `CRD`           | Computational Solution Design `CTP1`      |
+| Data `DAT`                           | Algorithms and Program Development `CPT2` |
+| Algorithms and Programming `AAP`     | Abstraction in Program Development `CPT3` |
+| Computing Systems and Networks `CSN` | Code Analysis `CPT4`                      |
+| Impact of Computing `IOC`            | Computing Innovations `CPT5`              |
+|                                      | Responsible Computing `CPT6`              |
 
 #### Rating Scale
 
@@ -60,11 +58,11 @@ Our course will use Standards-Based Grading for reporting. Since the AP exam is 
 
 | Rating | Meaning                  | Traditional Grade Equivalent\* |
 | ------ | ------------------------ | ------------------------------ |
-| 5      | Extremely well qualified | A+ or A                        |
-| 4      | Very well qualified      | A-, B+, or B                   |
-| 3      | Qualified                | B-, C+, or C                   |
-| 2      | Possibly qualified       | D                              |
-| 1      | No recommendation        | F                              |
+| `5`    | Extremely well qualified | A+ or A                        |
+| `4`    | Very well qualified      | A-, B+, or B                   |
+| `3`    | Qualified                | B-, C+, or C                   |
+| `2`    | Possibly qualified       | D                              |
+| `1`    | No recommendation        | F                              |
 
 **NOTE:** The Traditional Grade Equivalents vary, so I will be using a preponderance of evidence to determine those for each reporting period. Your ratings should give you a ballpark idea of where you stand.
 
