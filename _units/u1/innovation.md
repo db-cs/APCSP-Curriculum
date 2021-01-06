@@ -33,7 +33,7 @@ As a class we’re going to see how innovative we can be. We’re going to do so
 
 ![Rapid Prototype](../images/rapid-prototype.jpg)
 
-Go to Canvas or check the Chat to access the Rapid Prototpe document.
+Open the dropbox above (Week 1 Digital Journal) and go to page 3.
 
 ## Computer Science is Everywhere
 
