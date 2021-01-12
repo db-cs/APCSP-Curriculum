@@ -23,7 +23,7 @@ In the last lesson we ended by deciding that one of the best way to use our devi
 
 **Prompt:** Work out how many different pieces of information (made of up of circles and squares) you can represent with three place values. For example: circle-circle-circle and circle-square-circle can represent two different pieces of information.
 
-![Starter Patterns](../images/starter-pattern.png)
+![Starter Patterns](../../images/starter-pattern.png)
 
 ## Circle Square Activity
 

@@ -14,7 +14,7 @@ You need to check the announcement each day to make sure there are no changes or
 
 Each unit will have a course pack that has a 🧭 icon before the title. The course pack is where you'll find all the information for the unit. All the instructions for assignments and other important information you will need to complete the unit.
 
-![Course pack example](../images/course_pack.png){: style="border: 1px solid #ccc;"}
+![Course pack example](../../images/course_pack.png){: style="border: 1px solid #ccc;"}
 
 **Note:** If you are viewing the course pack on a small screen, you will need to use the "hamburger menu" to view all the pages available.
 
@@ -26,7 +26,7 @@ Each unit will have a course pack that has a 🧭 icon before the title. The cou
 
 **Note:** You can also open the course pack in a new tab by clicking the title at the top in Canvas. I'd recommend doing this so you can easily access the course pack while you are working in Canvas.
 
-![Open in New Tab Button Example](../images/open_in_tab.png)
+![Open in New Tab Button Example](../../images/open_in_tab.png)
 
 ## Dropbox
 
@@ -34,11 +34,11 @@ Every assingment will have a dropbox on Canvas that has a 📥 icon before the t
 
 **Note:** All assignments will have a due date listed underneath. Assignments may be submitted by Sunday after that date,
 
-![Due Dates on an Assignment Example](../images/due_dates.png)
+![Due Dates on an Assignment Example](../../images/due_dates.png)
 
 **Note:** You should see a checkmark beside the assignment in Modules once you have successfully submited.
 
-![Submitted Assignment Example](../images/submitted_assignment.png)
+![Submitted Assignment Example](../../images/submitted_assignment.png)
 
 ### Tests
 
@@ -50,7 +50,7 @@ Each assignment will also have a rubric attached to the dropbox on Canvas that w
 
 **Note:** The rubrics can be hard to find on certain types of assignments, so the best way to find them is to go to the `Grades` page. Click on an assignment. On the top right corner, you will see a link to `Show Rubric`.
 
-![Rubric Example](../images/rubric.png)
+![Rubric Example](../../images/rubric.png)
 
 ## Grades and Feedback
 

@@ -17,7 +17,7 @@ dropbox:
 
 1. Sign in to your Code Studio account at [https://studio.code.org](https://studio.code.org) using Google.
 2. Join the section using the Section Code provided in the Announcement.
-   ![Join a section](../images/join.png)
+   ![Join a section](../../images/join.png)
 
 ### Pre-Survey
 
@@ -31,7 +31,7 @@ As a class we’re going to see how innovative we can be. We’re going to do so
 
 "Prototype" is a fancy word that means a simple sketch of an idea or model for something new. It’s the original drawing from which something real might be built or created.
 
-![Rapid Prototype](../images/rapid-prototype.jpg)
+![Rapid Prototype](../../images/rapid-prototype.jpg)
 
 Open the dropbox above (Week 1 Digital Journal) and go to page 3.
 

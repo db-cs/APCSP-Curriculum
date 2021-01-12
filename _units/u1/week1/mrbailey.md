@@ -45,11 +45,11 @@ My personal motto is `Never Stop Learning`. The world never stands still, and th
 
 Here's what the tech world looked like when I was born.
 
-![](../images/techin84.jpg)
+![](../../images/techin84.jpg)
 
 Here's what the tech world looked like when I was in high school.
 
-![](../images/techin03.jpg)
+![](../../images/techin03.jpg)
 
 ## Learning Never Stops
 

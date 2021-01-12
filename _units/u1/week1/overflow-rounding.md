@@ -56,10 +56,10 @@ Largest Number: What is the largest number (in decimal) you can make with the Fl
 
 ### Challenge #6
 
-![Pie 1](../images/pie1.png)
-![Pie 2](../images/pie2.png)
-![Pie 3](../images/pie3.png)
-![Pie 4](../images/pie4.png)
+![Pie 1](../../images/pie1.png)
+![Pie 2](../../images/pie2.png)
+![Pie 3](../../images/pie3.png)
+![Pie 4](../../images/pie4.png)
 
 ## Wrap Up
 
