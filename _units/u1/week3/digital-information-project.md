@@ -21,15 +21,15 @@ This unit we have considered how our analog world can be represented digitally. 
 
 We're going to think more about this question together. You'll have a chance once we've done some more digging to update your answer if you like.
 
-## Diogital Information Dilemmas
+## Digital Information Dilemmas
 
 Yesterday, you stated an opinion on a copyright issue based on reading an article. Today, you will get to choose an article to read and respond to, focusing on the digital dilemma: Is our world better or worse?
 
 **Do This:** Choose one of the articles below. Make note of any information in this article that you want to learn more about. Afterwards, write a 10 word summary of the article.
 
-[The Ethics of Computer-Generated Actors - Article](https://mediaethicsinitiative.org/2019/02/13/the-ethics-of-computer-generated-actors/)
-[DNA Testing Kits & The Security Risks in Digitized DNA - Article](https://www.bleepingcomputer.com/news/security/dna-testing-kits-and-the-security-risks-in-digitized-dna/)
-[Athletes Don't Own Their Tattoos - Article](https://www.todayonline.com/world/athletes-dont-own-their-tattoos-thats-problem-video-game-developers)
+- [The Ethics of Computer-Generated Actors - Article](https://mediaethicsinitiative.org/2019/02/13/the-ethics-of-computer-generated-actors/)
+- [DNA Testing Kits & The Security Risks in Digitized DNA - Article](https://www.bleepingcomputer.com/news/security/dna-testing-kits-and-the-security-risks-in-digitized-dna/)
+- [Athletes Don't Own Their Tattoos - Article](https://www.todayonline.com/world/athletes-dont-own-their-tattoos-thats-problem-video-game-developers)
 
 **Prompt:** Share your 10 word summary with the group and discuss the main content in the articles. Together look up any unfamiliar words or concepts.
 
