@@ -61,7 +61,20 @@ For example: Is it an image or text? Do you think it's been compressed? Which fo
 
 **Section 4:** Is our world better or worse because of digital representation? Explain why, giving examples from the article.
 
+### Creating Your Infographic
+
 You may use any tool that you'd like to create your digital poster, but I'd recomend [Google Slides](https://slides.google.com), [Adobe Spark](https://spark.adobe.com/), or [Canva](https://www.canva.com/). You can log in using Google to any of these.
+
+### Infographic Examples
+
+![Infographic Example](../../images/example1.png){: width="200"}
+<small>Image Source: visme.co/blog</small>
+
+![Infographic Example](../../images/example2.png){: width="200"}
+<small>Image Source: enngage.com/blog</small>
+
+![Infographic Example](../../images/example3.jpg){: width="400"}
+<small>Image Source: www.spinxdigital.com/blog</small>
 
 ### Submitting Infographic
 
