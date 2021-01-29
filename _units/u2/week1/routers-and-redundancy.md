@@ -68,6 +68,4 @@ Take a look at these key vocabulary terms:
 
 - **Fault Tolerant:** Can continue to function even in the event of individual component failures. This is important because elements of complex systems like a computer network fail at unexpected times, often in groups.
 
-
-
 **✍️ Journal:** Thinking about these terms, how can we describe what we've observed in the router logs at the end of this activity? What are some practical reasons that you think messages might take different paths from one router to the other?
