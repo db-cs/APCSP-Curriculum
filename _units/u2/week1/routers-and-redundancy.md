@@ -23,6 +23,8 @@ Today we are using a new version of the Internet Simulator that incorporates the
 
 You'll be working in groups of 3-4 for this activity.
 
+[Open the Internet Simulator](https://studio.code.org/s/csp2-2020/stage/4/puzzle/2){: style="border: 1px solid #ccc; border-radius: 5px; padding: 8px 10px; background: #efefef;" target="\_blank"}
+
 **Do This:**
 
 - Log into Code Studio and connect to the same router as your group number.
