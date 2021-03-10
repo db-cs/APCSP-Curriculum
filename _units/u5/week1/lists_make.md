@@ -28,7 +28,7 @@ With a partner explore the working app and consider the following questions:
 - How many lists do you think are needed to make this app work?
 - What programming patterns with lists do you think you'll need to use?
 
-[Code Studio, Lesson 4 Level 3](https://studio.code.org/s/csp5-2020/stage/4/puzzle/3){: style="border: 1px solid #ccc; border-radius: 5px; padding: 8px 10px; background: #efefef;" target="\_blank"}
+[Code Studio, Lesson 4 Level 2](https://studio.code.org/s/csp5-2020/stage/4/puzzle/2){: style="border: 1px solid #ccc; border-radius: 5px; padding: 8px 10px; background: #efefef;" target="\_blank"}
 
 ## Practice Make
 
