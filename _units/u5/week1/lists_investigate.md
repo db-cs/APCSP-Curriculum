@@ -1,5 +1,5 @@
 ---
-title: 5.A Lists Explore
+title: 5.A Lists Investigate
 unit: Lists, Loops, and Traversals
 order: 3
 is_assignment: true
@@ -11,12 +11,6 @@ dropbox:
   title: 5.A Unit 5 Digital Journal
   url: https://kingsport.instructure.com/courses/21067/discussion_topics/36025
 ---
-
-## Warm-Up
-
-<div style="border: 1px solid #ccc; border-radius: 15px; padding: 0.5em 2em 1em 2em;">
-  <p class="text-xl"><strong>🤔 Reflect:</strong> Imagine you want to make a decision about what to wear to an event. Name two pieces of information you'd want. How would you use them in your decision?</p>
-</div>
 
 ## Accessing Lists
 
