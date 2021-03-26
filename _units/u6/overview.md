@@ -6,7 +6,7 @@ is_overview: true
 permalink: "/u6/"
 ---
 
-Students learn to design and analyze algorithms to understand how they work and why some algorithms are considered more efficient than others. This short unit is entirely unplugged, and features hands-on activities that help students get an intuitive sense of how quickly different algorithms run and the pros and cons of different algorithms. Later in the unit, students explore concepts like undecidable problems and parallel and distributed computing.
+You will learn to design and analyze algorithms to understand how they work and why some algorithms are considered more efficient than others. You will also get a chance to explore concepts like undecidable problems and parallel and distributed computing.
 
 {% include responsive.html source="https://docs.google.com/presentation/d/1K-xMsOp_HOubEF08HmwOxLd0C32hAJfUQZ3oxIEScng/preview" %}
 

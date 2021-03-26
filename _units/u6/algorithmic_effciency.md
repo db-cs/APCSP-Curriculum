@@ -3,6 +3,9 @@ title: Algorithmic Efficiency and Parallel Computing
 unit: Algorithms
 order: 2
 is_assignment: true
+dropbox:
+  title: 6.A AP Classroom Videos and Quick Check
+  url: https://kingsport.instructure.com/courses/21067/assignments/276620
 ---
 
 ## AP Classroom Daily Videos
@@ -25,3 +28,7 @@ When you have finished the videos, please complete the quick check. There is a t
 [**B Block:** Take the Quick Check](https://apclassroom.collegeboard.org/103/assessments/assignments/33486478){: style="border: 1px solid #ccc; border-radius: 5px; padding: 8px 10px; background: #efefef;" target="\_blank"}
 
 [**D Block:** Take the Quick Check](https://apclassroom.collegeboard.org/103/assessments/assignments/33486479){: style="border: 1px solid #ccc; border-radius: 5px; padding: 8px 10px; background: #efefef;" target="\_blank"}
+
+## Submitting
+
+Once you have finished with the activities, go to the Dropbox on canvas and answer the two questions. Remember to elaborate on your responses, and think carefully about what you are still confused about. This will help me to know what we need to spend a little more time on.
