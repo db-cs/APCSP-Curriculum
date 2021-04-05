@@ -9,7 +9,7 @@ objectives:
   - Write comments to explain the function purpose, parameters, and return values
 dropbox:
   title: 7.A Unit 7 Digital Journal
-  url:
+  url: https://kingsport.instructure.com/courses/21067/discussion_topics/36561
 ---
 
 ## Warm-Up

@@ -8,7 +8,7 @@ objectives:
   - Debug programs that use functions with parameters and return
 dropbox:
   title: 7.A Unit 7 Digital Journal
-  url:
+  url: https://kingsport.instructure.com/courses/21067/discussion_topics/36561
 ---
 
 ## Warm-Up
